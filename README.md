@@ -9,9 +9,9 @@
 
 # **Icon Table**
 
-| HTML | CSS | Javascript | React | 
-| :----: | :----: | :----: | :----: | 
-| <img src="./logos/html.png" width="64" height="64"> | <img src="./logos/css.png" width="64" height="64"> | <img src="./logos/javascript.png" width="64" height="64"> | <img src="./logos/react.png" width="64" height="64"> |
+| HTML | CSS | Javascript | React | Angular 
+| :----: | :----: | :----: | :----: | :----: | 
+| <img src="./logos/html.png" width="64" height="64"> | <img src="./logos/css.png" width="64" height="64"> | <img src="./logos/javascript.png" width="64" height="64"> | <img src="./logos/react.png" width="64" height="64"> | <img src="./logos/angular.png" width="64" height="64">
 
 | Bootstrap | Tailwind | Git | Github |
 | :----: | :----: | :----: | :----: | 
@@ -25,7 +25,7 @@
 | :----: | :----: | :----: | :----: | 
 | <img src="./logos/instagram.png" width="64" height="64"> | <img src="./logos/steam.png" width="64" height="64"> | <img src="./logos/twitter.png" width="64" height="64"> | <img src="./logos/linkedin.png" width="64" height="64"> |
 
-| Hackerrank | Gmail | VS Code | 
+| Hackerrank | Gmail | VS Code |
 | :----: | :----: | :----: | 
 | <img src="./logos/hackerrank.png" width="64" height="64"> | <img src="./logos/gmail.png" width="64" height="64"> | <img src="./logos/vscode.png" width="64" height="64"> |
 
